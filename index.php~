@@ -90,7 +90,7 @@ if ($user_id) {
 ?>
 <html>
 	<head>
-		<title>Know Who Deleted You</title>
+		<title>my second working apps </title>
 	</head>
 	<body>
 		<h3> Successfully Processed Your Information </h3>
