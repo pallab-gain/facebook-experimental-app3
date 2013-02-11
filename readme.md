@@ -6,8 +6,10 @@ Next to do ( done )
   - implements appfog database connection
   - push datas into appfog
 
-Next to do 
+Next to do ( done )
   - add user's facebook profile link
   - add every deleted! friends' profile link 
+
+Stop here. Will do improvement in completely new repo
   
   
